@@ -1,8 +1,0 @@
-To install dependencies:
-
-On Ubuntu:
-
-Follow the comments in my shell script.  Know for KML support xen-conf.sh must be run in with EXPAT installed.
-
-find that repo here:
-https://github.com/libexpat/libexpat
