@@ -1,6 +1,10 @@
 # FieldProcessing
 Processing Bird Point Count data.   
 
-As of 7/25/18: 
-- KML Seach and Convert is ready for a ui on Shiny Server
-- CleanApp is live http://www.transscendsurvival.org/2018/07/16/deploy-a-shiny-web-app-in-r-using-aws-ec2-red-hat/
+As of 11.11.18:
+
+Added ttest, general clean up.  see these shiny apps below:
+
+https://jessdev.shinyapps.io/KML2CSV/
+https://jessdev.shinyapps.io/Centroid_KML_2/
+https://jessdev.shinyapps.io/KMLSubsetFilter/
