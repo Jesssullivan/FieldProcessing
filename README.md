@@ -1,12 +1,12 @@
 # FieldProcessing
 Processing Bird Point Count data.   
 
-As of 11.11.18:
+Added ttest, general clean up.  
 
-Added ttest, general clean up.  see these shiny apps below:
+As of 11.27.18, see https://github.com/Jesssullivan/Shiny-Apps
 
-https://jessdev.shinyapps.io/KML2CSV/
+and 
 
-https://jessdev.shinyapps.io/Centroid_KML_2/
+https://kml-tools.herokuapp.com/
 
-https://jessdev.shinyapps.io/KMLSubsetFilter/
+for complete Shiny R wrappers.
